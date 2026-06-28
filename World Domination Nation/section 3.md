@@ -1,4 +1,4 @@
-# Section 3: World Domination Nation
+# Section 3: GETTING SMARTER 🧠
 
 ## Table of Contents
 - [Question 1](#question-1)
