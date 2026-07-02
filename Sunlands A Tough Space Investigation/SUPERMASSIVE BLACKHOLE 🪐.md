@@ -35,7 +35,7 @@ Check the first alert description.
 
 ### Answer
 
-EnergyGrid-Blueprints.docx
+`EnergyGrid-Blueprints.docx`
 
 ---
 
@@ -45,7 +45,7 @@ Which host did the alert from Q1 detect the suspicious file on?
 
 ### Answer
 
-NKIG-DESKTOP
+`NKIG-DESKTOP`
 
 ---
 
@@ -61,7 +61,7 @@ Employees
 
 ### Answer
 
-Monica Aguila
+`Monica Aguila`
 
 ---
 
@@ -79,7 +79,7 @@ Email
 
 ### Answer
 
-[urgent@verizon.com](mailto:urgent@verizon.com)
+`urgent@verizon.com`
 
 ---
 
@@ -93,7 +93,7 @@ The reply-to email is `energygrid@protonmail.com`. ProtonMail is headquartered i
 
 ### Answer
 
-Switzerland
+`Switzerland`
 
 ---
 
@@ -113,7 +113,7 @@ Email
 
 ### Answer
 
-renewablesolutionsgriddefender.com
+`renewablesolutionsgriddefender.com`
 
 ---
 
@@ -131,7 +131,7 @@ FileCreationEvents
 
 ### Answer
 
-Edge.exe
+`Edge.exe`
 
 ---
 
@@ -149,7 +149,7 @@ PassiveDns
 
 ### Answer
 
-10
+`10`
 
 ---
 
@@ -170,7 +170,7 @@ PassiveDns
 
 ### Answer
 
-11
+`11`
 
 ---
 
@@ -196,7 +196,7 @@ OutboundNetworkEvents
 
 ### Answer
 
-39
+`39`
 
 ---
 
@@ -223,7 +223,7 @@ OutboundNetworkEvents
 
 ### Answer
 
-5
+`5`
 
 ---
 
@@ -233,7 +233,7 @@ Looking at the files found in Q11, which one was downloaded the most?
 
 ### Answer
 
-GridDefender_Technical_Doc.xlsx
+`GridDefender_Technical_Doc.xlsx`
 
 ---
 
@@ -270,7 +270,7 @@ Employees
 
 ### Answer
 
-Intern
+`Intern`
 
 ---
 
@@ -309,7 +309,7 @@ Employees
 
 ### Answer
 
-Wilbert Wiemer
+`Wilbert Wiemer`
 
 ---
 
@@ -323,4 +323,4 @@ Base64 → Reverse → ROT13
 
 ### Answer
 
-https://www.youtube.com/watch?v=8fK1kA9Q-3Y
+`https://www.youtube.com/watch?v=8fK1kA9Q-3Y`
