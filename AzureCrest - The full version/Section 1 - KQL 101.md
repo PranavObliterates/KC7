@@ -2,7 +2,23 @@
 
 ## Section 1: KQL 101
 
-### Question 1
+## Table of Contents
+- [Question 1](#question-1)
+- [Question 2](#question-2)
+- [Question 3](#question-3)
+- [Question 4](#question-4)
+- [Question 5](#question-5)
+- [Question 6](#question-6)
+- [Question 7](#question-7)
+- [Question 8](#question-8)
+- [Question 9](#question-9)
+- [Question 10](#question-10)
+- [Question 11](#question-11)
+- [Question 12](#question-12)
+
+---
+
+## Question 1
 
 Welcome to Azure Crest Hospital!
 
@@ -10,11 +26,11 @@ Enter ready to get started!
 
 ### Answer
 
-ready
+`ready`
 
 ---
 
-### Question 2
+## Question 2
 
 Run a take 10 on each table to understand the available data.
 
@@ -22,11 +38,11 @@ Type "done" to earn credit for this question.
 
 ### Answer
 
-done
+`done`
 
 ---
 
-### Question 3
+## Question 3
 
 How many employees work at Azure Crest Hospital?
 
@@ -39,11 +55,11 @@ Employees
 
 ### Answer
 
-250
+`250`
 
 ---
 
-### Question 4
+## Question 4
 
 What is the Chief Financial Officer's name?
 
@@ -56,11 +72,11 @@ Employees
 
 ### Answer
 
-Penny Pincher
+`Penny Pincher`
 
 ---
 
-### Question 5
+## Question 5
 
 How many emails did Penny Pincher receive?
 
@@ -74,11 +90,11 @@ Email
 
 ### Answer
 
-30
+`30`
 
 ---
 
-### Question 6
+## Question 6
 
 How many distinct senders were seen in the email logs from pharmabest.net?
 
@@ -93,11 +109,11 @@ Email
 
 ### Answer
 
-236
+`236`
 
 ---
 
-### Question 7
+## Question 7
 
 How many distinct websites did Penny Pincher visit?
 
@@ -112,11 +128,11 @@ OutboundNetworkEvents
 
 ### Answer
 
-68
+`68`
 
 ---
 
-### Question 8
+## Question 8
 
 How many distinct domains in the PassiveDns records contain the word "health"?
 
@@ -131,11 +147,11 @@ PassiveDns
 
 ### Answer
 
-28
+`28`
 
 ---
 
-### Question 9
+## Question 9
 
 What IPs did the domain "bit.ly" resolve to?
 
@@ -148,7 +164,7 @@ PassiveDns
 
 ### Answer
 
-134.177.143.174
+`134.177.143.174`
 
 ### Notes
 
@@ -156,7 +172,7 @@ PassiveDns
 
 ---
 
-### Question 10
+## Question 10
 
 How many distinct URLs did employees with the first name "Mary" visit?
 
@@ -175,11 +191,11 @@ OutboundNetworkEvents
 
 ### Answer
 
-119
+`119`
 
 ---
 
-### Question 11
+## Question 11
 
 How many authentication attempts did we see to the accounts of employees with the first name Mary?
 
@@ -198,16 +214,16 @@ AuthenticationEvents
 
 ### Answer
 
-180
+`180`
 
 ---
 
-### Question 12
+## Question 12
 
-Congratulations! You''ve passed KQL 101!
+Congratulations! You have passed KQL 101!
 
 Enter "ready" to earn credit for this question.
 
 ### Answer
 
-ready
+`ready`
