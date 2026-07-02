@@ -22,7 +22,7 @@ Enter Phish and Chips to continue.
 
 ### Answer
 
-Phish and Chips
+`Phish and Chips`
 
 ---
 
@@ -64,7 +64,7 @@ Email
 
 ### Answer
 
-thresher_libero@hotmail.com
+`thresher_libero@hotmail.com`
 
 ---
 
@@ -86,7 +86,7 @@ AuthenticationEvents
 
 ### Answer
 
-87.250.252.242
+`87.250.252.242`
 
 ---
 
@@ -106,7 +106,7 @@ InboundNetworkEvents
 
 ### Answer
 
-Wade Wells
+`Wade Wells`
 
 ---
 
@@ -134,7 +134,7 @@ Email
 
 ### Answer
 
-Joseph Eisenman
+`Joseph Eisenman`
 
 ---
 
@@ -156,7 +156,7 @@ Resolve the attacker-controlled domains through PassiveDns to identify additiona
 
 ### Answer
 
-12
+`12`
 
 ---
 
@@ -177,7 +177,7 @@ Used to locate domain controller enumeration activity.
 
 ### Answer
 
-nltest /dclist:chicagogrid.local
+`nltest /dclist:chicagogrid.local`
 
 ---
 
@@ -198,7 +198,7 @@ Review commands containing "password" and identify referenced text files.
 
 ### Answer
 
-C:\ProgramData\Password_Files.txt
+`C:\ProgramData\Password_Files.txt`
 
 ---
 
@@ -219,7 +219,7 @@ Review browsing activity from attacker-controlled IPs and inspect visited URLs.
 
 ### Answer
 
-karaoke night
+`karaoke night`
 
 ---
 
@@ -242,4 +242,4 @@ Identify the command targeting the System event log.
 
 ### Answer
 
-wevtutil cl System
+`wevtutil cl System`
