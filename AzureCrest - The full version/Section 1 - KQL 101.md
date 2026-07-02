@@ -1,6 +1,4 @@
-﻿# Azure Crest Hospital
-
-## Section 1: KQL 101
+# Section 1: KQL 101
 
 ## Table of Contents
 - [Question 1](#question-1)
