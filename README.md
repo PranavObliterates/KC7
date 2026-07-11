@@ -20,15 +20,25 @@ The content is organized by scenario folders, each with markdown-based section n
 ### 1) AzureCrest - The full version 
 - `Section 1 - KQL 101.md`
 - `Section 2 - Quarantine Quandary.md`
+- `Section 3 - The Phisher's Net.md`
+- `Section 4 - Derpy Database.md`
+- `Section 5 - Bonus - Mo' Money Mo' Problems.md`
 
-### 2) Critical Compromise In Chicago - ICS 
+### 2) Cowboy Couture - A Steampunk Space Adventure
+- `Section 1 - What's a Query 🤔.md`
+- `Section 2 - All about the dataz 👩‍💻.md`
+- `Section 3 - Cyber Cattle Thief 🐄.md`
+- `Section 4 - Cowhands-on-Keyboard 🤠.md`
+
+### 3) Critical Compromise In Chicago - ICS 
 - `Section 1 - SCADA NADA.md`
 - `Section 2 - Phish and Chips.md`
 
-### 3) Sunlands A Tough Space Investigation 
+### 4) Sunlands A Tough Space Investigation 
 - `SUPERMASSIVE BLACKHOLE 🪐.md`
+- `YEETED INTO SPACE 😱👾.md`
 
-### 4) World Domination Nation 
+### 5) World Domination Nation 
 - `Section 3 - GETTING SMARTER 🧠.md`
 
 ---
